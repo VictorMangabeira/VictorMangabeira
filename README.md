@@ -19,5 +19,3 @@ Atualmente sou estudante do curso Técnico em Internet das Coisas (IoT) e estou 
 - E-mail: 1999mangabeira@gmail.com
 
 ---
-
-"Em constante evolução, assim como a tecnologia."
